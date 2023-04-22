@@ -1,0 +1,5 @@
+
+/SportsStore/ClientApp/.angular
+/SportsStore/ClientApp/node_modules
+/SportsStore/ServerApp/obj
+/SportsStore/ServerApp/wwwroot/lib
